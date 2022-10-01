@@ -2,4 +2,4 @@ We started this project with Yigit Taskin. We used Figma for Desing in the first
 
 We are planning to add Back-End with PHP and MySQL.
 
-You can also find this project in Yigit's GitHub profile.
+You can also find this project in [Yigit's GitHub](https://github.com/yigittaskin/ReactJS-Social-Media-App) profile.
